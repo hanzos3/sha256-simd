@@ -1,4 +1,4 @@
-module github.com/minio/sha256-simd
+module github.com/hanzos3/sha256-simd
 
 go 1.17
 
